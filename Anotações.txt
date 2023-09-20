@@ -1,0 +1,5 @@
+Viewport = <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+Grid view = Visualização em uma grade
+
+Media querry = min width, max widht e @media como condicional da tela e seu tamanho
